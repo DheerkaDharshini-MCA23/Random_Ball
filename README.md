@@ -5,9 +5,9 @@
 
 ### How to run the code:
 
-### Step1:Save the HTML file with a .html extension.
+#### Step1:Save the HTML file with a .html extension.
 
-### Step2:Click the "Go Live" button to open a new browser window displaying the random Ball animation.
+#### Step2:Click the "Go Live" button to open a new browser window displaying the random Ball animation.
 
 ### Future improvement:
 
